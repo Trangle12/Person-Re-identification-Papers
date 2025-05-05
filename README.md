@@ -1,6 +1,10 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+## Privacy-Preserving and Attack Person Re-Identification
+> ###### 1) *"Learning to Learn Transferable Generative Attack for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
+
+
 ## CVPR2024
 - <ins>***Person re-identification***</ins>
 > ###### 1) *"A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]
