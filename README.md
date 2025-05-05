@@ -4,22 +4,13 @@ This is a repository for organizing articles related to person re-identification
 ## Privacy-Preserving and Attack Person Re-Identification
 > ###### 1) *2025 TIP "Learning to Learn Transferable Generative Attack for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
 > ###### 2) *2025 TIFS "Looking Clearer With Text: A Hierarchical Context Blending Network for Occluded Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
-> Invisible Backdoor Attack with Dynamic Triggers
-against Person Re-identification
->
-> PixelFade: Privacy-preserving Person Re-identification with
-Noise-guided Progressive Replacement
+> ###### 3) *"Invisible Backdoor Attack with Dynamic Triggers against Person Re-identification"*
+> ###### 4) *"PixelFade: Privacy-preserving Person Re-identification with Noise-guided Progressive Replacement"*
+> ###### 5) *"Similarity Distribution based Membership Inference Attack on Person Re-identification"*
+> ###### 6) *"Privacy-Enhancing Person Re-identification Framework – A Dual-Stage Approach"*
+> ###### 7) *"Person Re-identification Method Based on Color Attack and Joint Defence"*
+> ###### 8) *"Cross-Modality Perturbation Synergy Attack for Person Re-identification"*
 
-Similarity Distribution based Membership Inference Attack on Person
-Re-identification
-
-Privacy-Enhancing Person Re-identification Framework – A Dual-Stage
-Approach
-
-Person Re-identification Method Based on Color Attack and Joint Defence
-
-Cross-Modality Perturbation Synergy Attack for
-Person Re-identification
 ## AAAI2025
 - <ins>***Person re-identification***</ins>
 > ###### 1)  *"CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification"*
