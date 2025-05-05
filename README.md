@@ -56,6 +56,7 @@ This is a repository for organizing articles related to person re-identification
 > ###### 1)  *"AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification"*
 > ###### 2)  *"SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks"*
 > ###### 3)  *"From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification"*
+> ###### 4)  *"Person De-reidentification: A Variation-guided Identity Shift Modeling"*
 
 ## CVPR2024
 - <ins>***Person re-identification***</ins>
