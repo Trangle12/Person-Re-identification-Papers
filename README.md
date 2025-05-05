@@ -5,27 +5,50 @@ This is a repository for organizing articles related to person re-identification
 > ###### 1) *2025 TIP "Learning to Learn Transferable Generative Attack for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
 > ###### 2) *2025 TIFS "Looking Clearer With Text: A Hierarchical Context Blending Network for Occluded Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
 
-## CVPR2025
-- <ins>***New Setting Re-identification***</ins>
-1、**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**
-2、**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**
-3、**From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification**
-
-- <ins>***Text-to-Image Person Re-identification***</ins>
-1、**Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment**
-2、**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**
-3、**Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification**
-
-**Person re-identification**
-1、**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**
-2、**Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification**
+## AAAI2025
+- <ins>***Person re-identification***</ins>
+> ###### 1)  *"CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification"*
+> ###### 2)  *"Diffusion-based Synthetic Data Generation for Visible-Infrared Person Re-Identification"*
+> ###### 3)  *"Relieving Universal Label Noise for Unsupervised Visible-Infrared Person Re-Identification by Inferring from Neighbors"*
+> ###### 4)  *"CDE-Learning: Camera Deviation Elimination Learning for Unsupervised Person Re-identification"*
+> ###### 5)  *"TokenMatcher: Diverse Tokens Matching for Unsupervised Visible-Infrared Person Re-Identification"*
 
 - <ins>***Lifelong Person Re-identification***</ins>
-1、**DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification**
+> ###### 1)  *"DASK: Distribution Rehearsing via Adaptive Style Kernel Learning for Exemplar-Free Lifelong Person Re-Identification"*
+
+- <ins>***Text-to-Image Person Re-identification***</ins>
+> ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"*
+
+> - <ins>***New Setting Re-identification***</ins>
+> ###### 1)  *"NightReID: A Large-Scale Nighttime Person Re-Identifcation Benchmark"*
+
+> - <ins>***Person Search***</ins>
+> ###### 1)  *"Unsupervised Domain Adaptive Person Search via Dual Self-Calibration"*
+
+
+
+## CVPR2025
+- <ins>***Person re-identification***</ins>
+> ###### 1)  *"From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization"*
+> ###### 2)  *"Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification"*
+
+- <ins>***Lifelong Person Re-identification***</ins>
+> ###### 1)  *"DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification"*
 
 - <ins>***Clothing Change Person Re-Identification***</ins>
-1、**Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification**
-2、**DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID**
+> ###### 1)  *"Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification"*
+> ###### 2)  *"DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID"*
+
+- <ins>***Text-to-Image Person Re-identification***</ins>
+> ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"*
+> ###### 2)  *"Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification"*
+> ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"*
+
+
+> - <ins>***New Setting Re-identification***</ins>
+> ###### 1)  *"AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification"*
+> ###### 2)  *"SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks"*
+> ###### 3)  *"From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification"*
 
 ## CVPR2024
 - <ins>***Person re-identification***</ins>
