@@ -19,10 +19,14 @@ This is a repository for organizing articles related to person re-identification
 - <ins>***Text-to-Image Person Re-identification***</ins>
 > ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"*
 
-> - <ins>***New Setting Re-identification***</ins>
+- <ins>***Multi-modal Object Re-Identification***</ins>
+> ###### 1) *"DeMo: Decoupled Feature-Based Mixture of Experts for Multi-Modal Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/924973292/EDITOR)]
+> ###### 2) *"MambaPro: Multi-Modal Object Re-Identification with Mamba Aggregation and Synergistic Prompt"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/924973292/EDITOR)]
+
+- <ins>***New Setting Re-identification***</ins>
 > ###### 1)  *"NightReID: A Large-Scale Nighttime Person Re-Identifcation Benchmark"*
 
-> - <ins>***Person Search***</ins>
+- <ins>***Person Search***</ins>
 > ###### 1)  *"Unsupervised Domain Adaptive Person Search via Dual Self-Calibration"*
 
 
@@ -43,6 +47,9 @@ This is a repository for organizing articles related to person re-identification
 > ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"*
 > ###### 2)  *"Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification"*
 > ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"*
+
+- <ins>***Multi-modal Object Re-Identification***</ins>
+> ###### 1) *"IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/924973292/EDITOR)]
 
 
 - <ins>***New Setting Re-identification***</ins>
