@@ -45,7 +45,7 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"*
 
 
-> - <ins>***New Setting Re-identification***</ins>
+- <ins>***New Setting Re-identification***</ins>
 > ###### 1)  *"AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification"*
 > ###### 2)  *"SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks"*
 > ###### 3)  *"From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification"*
