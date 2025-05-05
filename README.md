@@ -2,7 +2,6 @@
 This is a repository for organizing articles related to person re-identification.
 
 ## CVPR2024
-
 - <ins>***Person re-identification***</ins>
 > ###### 1) *"A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]
 > ###### 2) *"SEAS: ShapE-Aligned Supervision for Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhu_SEAS_ShapE-Aligned_Supervision_for_Person_Re-Identification_CVPR_2024_paper.pdf)]
