@@ -24,4 +24,4 @@ This is a repository for organizing articles related to person re-identification
 > ###### 18) *"Day-Night Cross-domain Vehicle Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Day-Night_Cross-domain_Vehicle_Re-identification_CVPR_2024_paper.pdf)]
 
 ---
----
+
