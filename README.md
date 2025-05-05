@@ -64,6 +64,18 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3)  *"From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification"*
 > ###### 4)  *"Person De-reidentification: A Variation-guided Identity Shift Modeling"*
 
+
+## NeurIPS2024
+- <ins>***Person re-identification***</ins>
+> ###### 1)  *"Feature-Level Adversarial Attacks and Ranking Disruption for Visible-Infrared Person Re-identification"*
+> ###### 2)  *"Optimal Transport-based Labor-free Text Prompt Modeling for Sketch Re-identification"*
+> ###### 3)  *"Empowering Visible-Infrared Person Re-Identification with Large Foundation Models"*
+> ###### 4)  *"Generalizable Person Re-identification via Balancing Alignment and Uniformity"*
+> ###### 5)  *"Cross-video Identity Correlating for Person Re-identification Pre-training"*
+> ###### 6)  *"Cross-Modality Perturbation Synergy Attack for Person Re-identification"*
+> ###### 7)  *"RLE: A Unified Perspective of Data Augmentation for Cross-Spectral Re-Identification"*
+> ###### 8)  *"Learning Commonality, Divergence and Variety for Unsupervised Visible-Infrared Person Re-identification"*
+
 ## CVPR2024
 - <ins>***Person re-identification***</ins>
 > ###### 1) *"A Pedestrian is Worth One Prompt: Towards Language Guidance Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_A_Pedestrian_is_Worth_One_Prompt_Towards_Language_Guidance_Person_CVPR_2024_paper.pdf)]
