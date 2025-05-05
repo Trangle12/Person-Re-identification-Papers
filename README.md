@@ -2,8 +2,30 @@
 This is a repository for organizing articles related to person re-identification.
 
 ## Privacy-Preserving and Attack Person Re-Identification
-> ###### 1) *"Learning to Learn Transferable Generative Attack for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
+> ###### 1) *2025 TIP "Learning to Learn Transferable Generative Attack for Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
+> ###### 2) *2025 TIFS "Looking Clearer With Text: A Hierarchical Context Blending Network for Occluded Person Re-Identification"* [[paper](https://arxiv.org/pdf/2409.04208)] [[github](https://github.com/yuanbianGit/MTGA)]
 
+## CVPR2025
+- <ins>***New Setting Re-identification***</ins>
+1、**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**
+2、**SeCap: Self-Calibrating and Adaptive Prompts for Cross-view Person Re-Identification in Aerial-Ground Networks**
+3、**From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification**
+
+- <ins>***Text-to-Image Person Re-identification***</ins>
+1、**Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment**
+2、**Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification**
+3、**Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification**
+
+**Person re-identification**
+1、**From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization**
+2、**Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification**
+
+- <ins>***Lifelong Person Re-identification***</ins>
+1、**DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification**
+
+- <ins>***Clothing Change Person Re-Identification***</ins>
+1、**Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification**
+2、**DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID**
 
 ## CVPR2024
 - <ins>***Person re-identification***</ins>
