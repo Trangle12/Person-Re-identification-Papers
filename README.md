@@ -1,4 +1,4 @@
-# Person-Re-identification-List
+# Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
 ## CVPR2024
