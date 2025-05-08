@@ -53,7 +53,7 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"*
 
 - <ins>***Multi-modal Object Re-Identification***</ins>
-> ###### 1) *"IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Magic_Tokens_Select_Diverse_Tokens_for_Multi-modal_Object_Re-Identification_CVPR_2024_paper.pdf)] [[github](https://github.com/924973292/EDITOR)]
+> ###### 1) *"IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification"*
 
 
 - <ins>***New Setting Re-identification***</ins>
