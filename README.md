@@ -27,14 +27,14 @@ This is a repository for organizing articles related to person re-identification
 - <ins>***Person re-identification***</ins>
 > ###### 1)  *"From Poses to Identity: Training-Free Person Re-Identification via Feature Centralization"* [[paper](https://arxiv.org/abs/2503.00938)] [[github](https://github.com/yuanc3/Pose2ID)]
  
-> ###### 2)  *"Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification"* [[paper]()] [[github]()]
+> ###### 2)  *"Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf)] [[github](https://github.com/Jinxi-Yang-WHU/Fast-GCR)]
 
 - <ins>***Lifelong Person Re-identification***</ins>
 > ###### 1)  *"DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification"* [[paper]()] [[github]()]
 
 - <ins>***Clothing Change Person Re-Identification***</ins>
-> ###### 1)  *"Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification"* [[paper]()] [[github]()]
-> ###### 2)  *"DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID"* [[paper]()] [[github]()]
+> ###### 1)  *"Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Pang_Identity-Clothing_Similarity_Modeling_for_Unsupervised_Clothing_Change_Person_Re-Identification_CVPR_2025_paper.pdf)] [[github]()]
+> ###### 2)  *"DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_DIFFER_Disentangling_Identity_Features_via_Semantic_Cues_for_Clothes-Changing_Person_CVPR_2025_paper.pdf)] [[github](https://github.com/xliangp/DIFFER)]
 
 - <ins>***Text-to-Image Person Re-identification***</ins>
 > ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"* [[paper]()] [[github]()]
