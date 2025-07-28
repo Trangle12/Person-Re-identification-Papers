@@ -1,6 +1,11 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+## ICCV2025
+
+
+## ACMMM2025
+
 ## AAAI2025
 - <ins>***Person re-identification***</ins>
 > ###### 1)  *"CLIMB-ReID: A Hybrid CLIP-Mamba Framework for Person Re-Identification"* [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/33039)] [[github](https://github.com/AsuradaYuci/CLIMB-ReID)]
