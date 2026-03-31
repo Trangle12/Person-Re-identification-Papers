@@ -1,6 +1,63 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+
+## AAAI2026
+- <ins>***Person re-identification***</ins>
+> ###### 1)  *"Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification"* [[paper](https://github.com/LH-Z-Ac/HPL-AAAI26)] [[github](https://github.com/LH-Z-Ac/HPL-AAAI26)]
+> 
+> ###### 2)  *"When Person Re-Identification Meets Event Camera: A Benchmark Dataset and an Attribute-guided Re-Identification Framework"* [[paper](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)] [[github](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)]
+> 
+> ###### 3)  *"Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 4)  *"Bipartite Mode Matching for Vision Training Set Search from a Hierarchical Data Server"* [[paper](https://github.com/yorkeyao/BMM)] [[github](https://github.com/yorkeyao/BMM)]
+> 
+> ###### 5)  *"CIA: Cluster-Instance Alignment for Unsupervised Day-Night Vehicle Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 6)  *"CKDA: Cross-modality Knowledge Disentanglement and Alignment for Visible-Infrared Lifelong Person Re-identification"* [[paper](https://github.com/PKU-ICST-MIPL/CKDA-AAAI2026)] [[github](https://github.com/PKU-ICST-MIPL/CKDA-AAAI2026)]
+> 
+> ###### 7)  *"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification"* [[paper](https://github.com/zchuanqi/DDDefense-ReID)] [[github](https://github.com/zchuanqi/DDDefense-ReID)]
+> 
+> ###### 8)  *"Dual-stream Relation-modeling Disentanglement for Cloth-Changing Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 9)  *"Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible & Infrared Person Retrieval"* [[paper]()] [[github]()]
+> 
+> ###### 10)  *"Dynamic-Static Collaboration for Unsupervised Domain Adaptive Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 11)  *"Federated Aggregation via Robust and Discriminative Knowledge Selection and Integration for Person Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 12)  *"Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval"* [[paper]()] [[github]()]
+> 
+> ###### 13)  *"Active Learning for Animal Re-Identification with Ambiguity-Aware Sampling"* [[paper]()] [[github]()]
+> 
+> ###### 14)  *"A Motion-Aware Pretraining Paradigm for Video-Based Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 15)  *"Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 16)  *"Localization-Anchored Instance Discrimination for Domain Adaptive Person Search"* [[paper]()] [[github]()]
+> 
+> ###### 17)  *"Modality-Aware Bias Mitigation and Invariance Learning for Unsupervised Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 18)  *"Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 19)  *"Parameter-Efficient Fine-Tuning with Bag-of-Adapters for Multi-Modal Object Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 20)  *"Progressive Multi-modal Knowledge Distillation for Multi-spectral Object Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 21)  *"Proxy-driven Test-Time Training for Multi-modal Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 22)  *"Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval"* [[paper]()] [[github]()]
+> 
+> ###### 23)  *"Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 24)  *"Semantic-Driven Visual Progressive Refinement for Aerial-Ground Person ReID"* [[paper]()] [[github]()]
+> 
+> ###### 25)  *"Text-based Aerial-Ground Person Retrieval"* [[paper]()] [[github]()]
+> 
+> ###### 26)  *"Unified Representation Causal Prompt Distillation for Re-Inference-Free Lifelong Person Re-Identification"* [[paper]()] [[github]()]
+
+注：部分论文未提供公开的论文链接或代码仓库链接，已标注为空白；文档id=27因系统内部异常无法获取内容，未纳入总结；其余文档均基于标题、公开链接等信息按要求格式整理。当前文件内容过长，豆包只阅读了前 23%。
+
 ## ICCV2025
 
 
