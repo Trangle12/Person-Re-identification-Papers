@@ -2,7 +2,6 @@
 This is a repository for organizing articles related to person re-identification.
 
 ## CVPR 2026
-- <ins>***Person re-identification***</ins>
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
 > 
 > ###### 2)  *"FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts"* [[paper](https://arxiv.org/abs/2603.12912v1)] [[github](https://github.com/leavlong/FedBPrompt)]
@@ -13,7 +12,6 @@ This is a repository for organizing articles related to person re-identification
 > 
 
 ## AAAI2026
-- <ins>***Person re-identification***</ins>
 > ###### 1)  *"Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification"* [[paper](https://github.com/LH-Z-Ac/HPL-AAAI26)] [[github](https://github.com/LH-Z-Ac/HPL-AAAI26)]
 > 
 > ###### 2)  *"When Person Re-Identification Meets Event Camera: A Benchmark Dataset and an Attribute-guided Re-Identification Framework"* [[paper](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)] [[github](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)]
