@@ -56,7 +56,7 @@ This is a repository for organizing articles related to person re-identification
 > 
 > ###### 26)  *"Unified Representation Causal Prompt Distillation for Re-Inference-Free Lifelong Person Re-Identification"* [[paper]()] [[github]()]
 
-注：部分论文未提供公开的论文链接或代码仓库链接，已标注为空白；文档id=27因系统内部异常无法获取内容，未纳入总结；其余文档均基于标题、公开链接等信息按要求格式整理。当前文件内容过长，豆包只阅读了前 23%。
+注：部分论文未提供公开的论文链接或代码仓库链接，已标注为空白
 
 ## ICCV2025
 
