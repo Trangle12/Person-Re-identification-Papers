@@ -9,6 +9,8 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3)  *"MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification"* [[paper](https://arxiv.org/abs/2512.03404v1)] [[github]()]
 > 
 > ###### 4)  *"Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.19678v1)] [[github](https://github.com/zhoujiahuan1991/CVPR2026-VLADR)]
+>
+>###### 5)  *"View-Aware Semantic Alignment for Aerial-Ground Person Re-Identification"* [[paper]()] [[github](https://github.com/Cat-Zero/ViSA/tree/main)]
 > 
 
 ## AAAI2026
