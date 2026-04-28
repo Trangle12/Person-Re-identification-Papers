@@ -1,7 +1,7 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
-## CVPR 2026
+CVPR 2026
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
 > 
 > ###### 2)  *"FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts"* [[paper](https://arxiv.org/abs/2603.12912v1)] [[github](https://github.com/leavlong/FedBPrompt)]
@@ -9,9 +9,40 @@ This is a repository for organizing articles related to person re-identification
 > ###### 3)  *"MOS: Mitigating Optical-SAR Modality Gap for Cross-Modal Ship Re-Identification"* [[paper](https://arxiv.org/abs/2512.03404v1)] [[github]()]
 > 
 > ###### 4)  *"Vision-Language Attribute Disentanglement and Reinforcement for Lifelong Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.19678v1)] [[github](https://github.com/zhoujiahuan1991/CVPR2026-VLADR)]
->
->###### 5)  *"View-Aware Semantic Alignment for Aerial-Ground Person Re-Identification"* [[paper]()] [[github](https://github.com/Cat-Zero/ViSA/tree/main)]
 > 
+> ###### 5)  *"View-Aware Semantic Alignment for Aerial-Ground Person Re-Identification"* [[paper]()] [[github](https://github.com/Cat-Zero/ViSA/tree/main)]
+> 
+> ###### 6)  *"Pose-guided Enriched Feature Learning for Federated-by-camera Person Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 7)  *"SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 8)  *"Dynamic Magic: Unleashing Restricted Knowledge for Lifelong Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 9)  *"COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 10)  *"MSAG: A Multispectral Aerial–Ground Benchmark for Any-Scenario Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 11)  *"Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval"* [[paper]()] [[github]()]
+> 
+> ###### 12)  *"Composite-Attribute Person Re-Identification via Pose-Guided Disentanglement"* [[paper]()] [[github]()]
+> 
+> ###### 13)  *"MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID"* [[paper]()] [[github]()]
+> 
+> ###### 14)  *"FSLoRA: Harmonizing Detection and Re-Identification via Freq-Spatial Low-Rank Adapter for One-Stage Person Search"* [[paper]()] [[github]()]
+> 
+> ###### 15)  *"SANER: Switchable Adapter with Non-parametric Enhanced Routing for Person De-Reidentification"* [[paper]()] [[github]()]
+> 
+> ###### 16)  *"Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining"* [[paper]()] [[github]()]
+> 
+> ###### 17)  *"R$^2$TUA: Reconstruction-residual Based Targeted and Untargeted Attack Against Text-Image Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 18)  *"Spatial-Frequency Collaborative Learning for Occluded Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> 
+> ###### 19)  *"Prompt-Anchored Vision–Text Distillation for Lifelong Person Re-identification"* [[paper]()] [[github]()]
+> 
+> ###### 20)  *"VRCLIP: Multimodal Canonical Correlation Alignment for CLIP-Driven Vision-Radio Person Re-Identification"* [[paper]()] [[github]()]
+
+---
 
 ## AAAI2026
 > ###### 1)  *"Hierarchical Prompt Learning for Image- and Text-Based Person Re-Identification"* [[paper](https://github.com/LH-Z-Ac/HPL-AAAI26)] [[github](https://github.com/LH-Z-Ac/HPL-AAAI26)]
