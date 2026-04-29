@@ -1,7 +1,7 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
-CVPR 2026
+## CVPR 2026
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
 > 
 > ###### 2)  *"FedBPrompt: Federated Domain Generalization Person Re-Identification via Body Distribution Aware Visual Prompts"* [[paper](https://arxiv.org/abs/2603.12912v1)] [[github](https://github.com/leavlong/FedBPrompt)]
