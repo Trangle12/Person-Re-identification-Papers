@@ -1,6 +1,18 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+## ICML 2026
+> ###### 1)  *"Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
+> ###### 2)  *"Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification"* [[paper]()] [github]()]
+> ###### 3)  *"cross-Modal Semantic Decoupling and Transfer for Text-to-Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
+> ###### 4)  *"Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification"* [[paper]()] [github]()]
+> ###### 5)  *"FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification"* [[paper]()] [github]()]
+> ###### 6)  *"Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification"* [[paper]()] [github]()]
+> ###### 7)  *"Correspondence Cognitive Learning for Multi-Modal Object Re-Identification"* [[paper]()] [github]()]
+> ###### 8)  *"CSOR: Coreset Selection for Object Re-identification via Class Pruning"* [[paper]()] [github]()]
+> ###### 9)  *"Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes"* [[paper]()] [github]()]
+
+
 ## CVPR 2026
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
 > 
