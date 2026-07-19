@@ -112,9 +112,24 @@ This is a repository for organizing articles related to person re-identification
 注：部分论文未提供公开的代码仓库链接，已标注为空白
 
 ## ICCV2025
-
-
-## ACMMM2025
+> ###### 1)  *"VIPerson: Flexibly Generating Virtual Identity for Person Re-Identification"* [[paper]()] [github]()]
+> ###### 2)  *"Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning"* [[paper]()] [github]()]
+> ###### 3)  *"Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification"* [[paper]()] [github]()]
+> ###### 4)  *"Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID"* [[paper]()] [github]()]
+> ###### 5)  *"Multi-modal Multi-platform Person Re-Identification: Benchmark and Method"* [[paper]()] [github]()]
+> ###### 6)  *"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"* [[paper]()] [github]()]
+> ###### 7)  *"One-Shot Knowledge Transfer for Scalable Person Re-Identification"* [[paper]()] [github]()]
+> ###### 8)  *"OpenAnimals: Revisiting Person Re-Identification for Animals Towards Better Generalization"* [[paper]()] [github]()]
+> ###### 9)  *"Augmented and Softened Matching for Unsupervised Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
+> ###### 10)  *"Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion"* [[paper]()] [github]()]
+> ###### 11)  *"HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person ReID"* [[paper]()] [github]()]
+> ###### 12)  *"Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
+> ###### 13)  *"ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models"* [[paper]()] [github]()]
+> ###### 14)  *"Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search"* [[paper]()] [github]()]
+> ###### 15)  *"Towards Robustness of Person Search against Corruptions"* [[paper]()] [github]()]
+> ###### 16)  *"Leveraging Prior Knowledge of Diffusion Model for Person Search"* [[paper]()] [github]()]
+> ###### 17)  *"VehicleMAE: View-asymmetry Mutual Learning for Vehicle Re-identification Pre-training via Masked AutoEncoders"* [[paper]()] [github]()]
+> ###### 18)  *"Generalizable Object Re-Identification via Visual In-Context Prompting"* [[paper]()] [github]()]
 
 ## AAAI2025
 - <ins>***Person re-identification***</ins>
