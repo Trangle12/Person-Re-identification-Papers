@@ -109,8 +109,6 @@ This is a repository for organizing articles related to person re-identification
 > 
 > ###### 26)  *"Unified Representation Causal Prompt Distillation for Re-Inference-Free Lifelong Person Re-Identification"* [[paper]()] [[github]()]
 
-注：部分论文未提供公开的代码仓库链接，已标注为空白
-
 ## ICCV2025
 > ###### 1)  *"VIPerson: Flexibly Generating Virtual Identity for Person Re-Identification"* [[paper]()] [github]()]
 > ###### 2)  *"Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning"* [[paper]()] [github]()]
