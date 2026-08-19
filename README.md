@@ -1,6 +1,23 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+## ECCV 2026
+> ###### 1)  *"VIGA: View-Conditioned and Identity-Guided Adaptation for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
+> ###### 2)  *"CMCC-ReID: Cross-Modality Clothing-Change Person Re-Identification"* [[paper]()] [github]()]
+> ###### 3)  *"Granular Semantic Cognition for Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
+> ###### 4)  *"Hierarchical Hyperbolic Representation Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
+> ###### 5)  *"QVAM: Query-guided View-aware Adaptive Modulation for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
+> ###### 6)  *"SCORE: SubDistribution-aware Collaborative Knowledge Reinforcing for Cloth-Hybrid Lifelong Person Re-Identification"* [[paper]()] [github]()]
+> ###### 7)  *"Reliability-Aware 3D Geometric Injection for Universal Person Re-identification"* [[paper]()] [github]()]
+> ###### 8)  *"CGCC: Towards Generalizable Clothes-Changing Person Re-Identification"* [[paper]()] [github]()]
+> ###### 9)  *"MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
+> ###### 10)  *"Incentive Noise and Structural Prior Infusion for Multi-Modal Object Re-Identification"* [[paper]()] [github]()]
+> ###### 11)  *"Cross-Species Animal Re-Identification with Semantic Consistency Learning"* [[paper]()] [github]()]
+> ###### 12)  *"Region-Aware Multimodal Interleaving for Animal Re-Identification"* [[paper]()] [github]()]
+> ###### 13)  *"3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification"* [[paper]()] [github]()]
+> ###### 14)  *"ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"* [[paper]()] [github]()]
+
+
 ## ICML 2026
 > ###### 1)  *"Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
 > ###### 2)  *"Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification"* [[paper]()] [github]()]
@@ -11,7 +28,6 @@ This is a repository for organizing articles related to person re-identification
 > ###### 7)  *"Correspondence Cognitive Learning for Multi-Modal Object Re-Identification"* [[paper]()] [github]()]
 > ###### 8)  *"CSOR: Coreset Selection for Object Re-identification via Class Pruning"* [[paper]()] [github]()]
 > ###### 9)  *"Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes"* [[paper]()] [github]()]
-
 
 ## CVPR 2026
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
