@@ -2,7 +2,7 @@
 This is a repository for organizing articles related to person re-identification.
 
 <p>
-  <img src="https://hitscounter.dev/api/hit?url=https://github.com/Trangle12/Person-Re-identification-Papers&label=ReID Papers&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
+  <img src="https://hitscounter.dev/api/hit?url=https://github.com/Trangle12/Person-Re-identification-Papers&label=ReID-Papers&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
 </p>
 
 ## ECCV 2026
