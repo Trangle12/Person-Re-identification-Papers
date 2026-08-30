@@ -1,6 +1,10 @@
 # Person Re-identification Papers
 This is a repository for organizing articles related to person re-identification.
 
+<p>
+  <img src="https://hitscounter.dev/api/hit?url=https://github.com/Trangle12/Person-Re-identification-Papers&label=ReID Papers&icon=github&color=%230d6efd&message=&style=flat&tz=UTC">
+</p>
+
 ## ECCV 2026
 > ###### 1)  *"VIGA: View-Conditioned and Identity-Guided Adaptation for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
 > ###### 2)  *"CMCC-ReID: Cross-Modality Clothing-Change Person Re-Identification"* [[paper]()] [github]()]
