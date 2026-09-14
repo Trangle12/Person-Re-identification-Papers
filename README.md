@@ -20,7 +20,7 @@ This is a repository for organizing articles related to person re-identification
 > ###### 12)  *"Region-Aware Multimodal Interleaving for Animal Re-Identification"* [[paper]()] [github]()]
 > ###### 13)  *"3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification"* [[paper]()] [github]()]
 > ###### 14)  *"ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"* [[paper]()] [github]()]
-
+> ###### 15)  *"ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID"* [[paper]()] [github]()]
 
 ## ICML 2026
 > ###### 1)  *"Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
