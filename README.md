@@ -6,32 +6,32 @@ This is a repository for organizing articles related to person re-identification
 </p>
 
 ## ECCV 2026
-> ###### 1)  *"VIGA: View-Conditioned and Identity-Guided Adaptation for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
-> ###### 2)  *"CMCC-ReID: Cross-Modality Clothing-Change Person Re-Identification"* [[paper]()] [github]()]
-> ###### 3)  *"Granular Semantic Cognition for Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
-> ###### 4)  *"Hierarchical Hyperbolic Representation Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
-> ###### 5)  *"QVAM: Query-guided View-aware Adaptive Modulation for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
-> ###### 6)  *"SCORE: SubDistribution-aware Collaborative Knowledge Reinforcing for Cloth-Hybrid Lifelong Person Re-Identification"* [[paper]()] [github]()]
-> ###### 7)  *"Reliability-Aware 3D Geometric Injection for Universal Person Re-identification"* [[paper]()] [github]()]
-> ###### 8)  *"CGCC: Towards Generalizable Clothes-Changing Person Re-Identification"* [[paper]()] [github]()]
-> ###### 9)  *"MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
-> ###### 10)  *"Incentive Noise and Structural Prior Infusion for Multi-Modal Object Re-Identification"* [[paper]()] [github]()]
-> ###### 11)  *"Cross-Species Animal Re-Identification with Semantic Consistency Learning"* [[paper]()] [github]()]
-> ###### 12)  *"Region-Aware Multimodal Interleaving for Animal Re-Identification"* [[paper]()] [github]()]
-> ###### 13)  *"3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification"* [[paper]()] [github]()]
-> ###### 14)  *"ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"* [[paper]()] [github]()]
-> ###### 15)  *"ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID"* [[paper]()] [github]()]
+> ###### 1)  *"VIGA: View-Conditioned and Identity-Guided Adaptation for Aerial-Ground Person Re-Identification"* 
+> ###### 2)  *"CMCC-ReID: Cross-Modality Clothing-Change Person Re-Identification"*
+> ###### 3)  *"Granular Semantic Cognition for Visible-Infrared Person Re-Identification"*
+> ###### 4)  *"Hierarchical Hyperbolic Representation Learning for Aerial-Ground Person Re-Identification"* 
+> ###### 5)  *"QVAM: Query-guided View-aware Adaptive Modulation for Aerial-Ground Person Re-Identification"* 
+> ###### 6)  *"SCORE: SubDistribution-aware Collaborative Knowledge Reinforcing for Cloth-Hybrid Lifelong Person Re-Identification"* 
+> ###### 7)  *"Reliability-Aware 3D Geometric Injection for Universal Person Re-identification"* 
+> ###### 8)  *"CGCC: Towards Generalizable Clothes-Changing Person Re-Identification"* 
+> ###### 9)  *"MCVL: Multi-Space Cross-View Learning for Aerial-Ground Person Re-Identification"* 
+> ###### 10)  *"Incentive Noise and Structural Prior Infusion for Multi-Modal Object Re-Identification"*  
+> ###### 11)  *"Cross-Species Animal Re-Identification with Semantic Consistency Learning"*  
+> ###### 12)  *"Region-Aware Multimodal Interleaving for Animal Re-Identification"*  
+> ###### 13)  *"3D-LENS: A 3D Lifting-based Elevated Novel-view Synthesis method for Single-View Aerial-Ground Re-Identification"*  
+> ###### 14)  *"ARGOS: Who, Where, and When in Agentic Multi-Camera Person Search"*  
+> ###### 15)  *"ANFI: Rethinking Neighbor Feature Interaction in Person Re-ID"*  
 
 ## ICML 2026
-> ###### 1)  *"Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
-> ###### 2)  *"Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification"* [[paper]()] [github]()]
-> ###### 3)  *"cross-Modal Semantic Decoupling and Transfer for Text-to-Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
-> ###### 4)  *"Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification"* [[paper]()] [github]()]
-> ###### 5)  *"FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification"* [[paper]()] [github]()]
-> ###### 6)  *"Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification"* [[paper]()] [github]()]
-> ###### 7)  *"Correspondence Cognitive Learning for Multi-Modal Object Re-Identification"* [[paper]()] [github]()]
-> ###### 8)  *"CSOR: Coreset Selection for Object Re-identification via Class Pruning"* [[paper]()] [github]()]
-> ###### 9)  *"Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes"* [[paper]()] [github]()]
+> ###### 1)  *"Hyperbolic Hierarchical Alignment for Video-Based Visible-Infrared Person Re-Identification"*  
+> ###### 2)  *"Resolution as a Direction: Vector-Panning Feature Alignment for Cross-Resolution Re-Identification"*  
+> ###### 3)  *"cross-Modal Semantic Decoupling and Transfer for Text-to-Visible-Infrared Person Re-Identification"*  
+> ###### 4)  *"Spatially-Regularized Entropy for Discriminative Token Merging in Fine-Grained Re-Identification"*  
+> ###### 5)  *"FUSE: Frequency-domain Unification and Spectral Energy Alignment for Multi-modal Object Re-Identification"*  
+> ###### 6)  *"Learning What to Generate: A Reinforcement Learning-based Closed-Loop Augmentation Framework for Person Re-identification"*  
+> ###### 7)  *"Correspondence Cognitive Learning for Multi-Modal Object Re-Identification"*  
+> ###### 8)  *"CSOR: Coreset Selection for Object Re-identification via Class Pruning"*  
+> ###### 9)  *"Towards Realistic Lifelong Re-identification: Identity Recurrence with Changing Clothes"*  
 
 ## CVPR 2026
 > ###### 1)  *"BIT: Matching-based Bi-directional Interaction Transformation Network for Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2603.14243v1)] [[github](https://github.com/Xuan266/BIT)]
@@ -44,35 +44,35 @@ This is a repository for organizing articles related to person re-identification
 > 
 > ###### 5)  *"View-Aware Semantic Alignment for Aerial-Ground Person Re-Identification"* [[paper]()] [[github](https://github.com/Cat-Zero/ViSA/tree/main)]
 > 
-> ###### 6)  *"Pose-guided Enriched Feature Learning for Federated-by-camera Person Re-identification"* [[paper]()] [[github]()]
+> ###### 6)  *"Pose-guided Enriched Feature Learning for Federated-by-camera Person Re-identification"*  
 > 
-> ###### 7)  *"SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 7)  *"SSM-Aware Token-Efficient VMamba via Adaptive Patch Pruning and Merging for Person Re-Identification"*  
 > 
-> ###### 8)  *"Dynamic Magic: Unleashing Restricted Knowledge for Lifelong Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 8)  *"Dynamic Magic: Unleashing Restricted Knowledge for Lifelong Person Re-Identification"*  
 > 
-> ###### 9)  *"COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification"* [[paper]()] [[github]()]
+> ###### 9)  *"COPE: Consistent Occlusion and Prompt Enhancement Network for Occluded Person Re-identification"*  
 > 
-> ###### 10)  *"MSAG: A Multispectral Aerial–Ground Benchmark for Any-Scenario Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 10)  *"MSAG: A Multispectral Aerial–Ground Benchmark for Any-Scenario Person Re-Identification"*  
 > 
-> ###### 11)  *"Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval"* [[paper]()] [[github]()]
+> ###### 11)  *"Quota-Calibrated Fine-Grained Alignment with Context-Aware Marginals for Text-based Person Retrieval"*  
 > 
-> ###### 12)  *"Composite-Attribute Person Re-Identification via Pose-Guided Disentanglement"* [[paper]()] [[github]()]
+> ###### 12)  *"Composite-Attribute Person Re-Identification via Pose-Guided Disentanglement"*  
 > 
-> ###### 13)  *"MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID"* [[paper]()] [[github]()]
+> ###### 13)  *"MFEN: Multi-Frequency Expert Network for Visible-Infrared Person Re-ID"*  
 > 
-> ###### 14)  *"FSLoRA: Harmonizing Detection and Re-Identification via Freq-Spatial Low-Rank Adapter for One-Stage Person Search"* [[paper]()] [[github]()]
+> ###### 14)  *"FSLoRA: Harmonizing Detection and Re-Identification via Freq-Spatial Low-Rank Adapter for One-Stage Person Search"*  
 > 
-> ###### 15)  *"SANER: Switchable Adapter with Non-parametric Enhanced Routing for Person De-Reidentification"* [[paper]()] [[github]()]
+> ###### 15)  *"SANER: Switchable Adapter with Non-parametric Enhanced Routing for Person De-Reidentification"*  
 > 
-> ###### 16)  *"Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining"* [[paper]()] [[github]()]
+> ###### 16)  *"Tackling Alignment Ambiguity in Person Retrieval through Conversational Attribute Mining"*  
 > 
-> ###### 17)  *"R$^2$TUA: Reconstruction-residual Based Targeted and Untargeted Attack Against Text-Image Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 17)  *"R$^2$TUA: Reconstruction-residual Based Targeted and Untargeted Attack Against Text-Image Person Re-Identification"*  
 > 
-> ###### 18)  *"Spatial-Frequency Collaborative Learning for Occluded Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 18)  *"Spatial-Frequency Collaborative Learning for Occluded Visible-Infrared Person Re-Identification"*  
 > 
-> ###### 19)  *"Prompt-Anchored Vision–Text Distillation for Lifelong Person Re-identification"* [[paper]()] [[github]()]
+> ###### 19)  *"Prompt-Anchored Vision–Text Distillation for Lifelong Person Re-identification"*  
 > 
-> ###### 20)  *"VRCLIP: Multimodal Canonical Correlation Alignment for CLIP-Driven Vision-Radio Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 20)  *"VRCLIP: Multimodal Canonical Correlation Alignment for CLIP-Driven Vision-Radio Person Re-Identification"*  
 
 ---
 
@@ -81,73 +81,73 @@ This is a repository for organizing articles related to person re-identification
 > 
 > ###### 2)  *"When Person Re-Identification Meets Event Camera: A Benchmark Dataset and an Attribute-guided Re-Identification Framework"* [[paper](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)] [[github](https://github.com/EventAHU/Neuromorphic-ReID/tree/main/TriPro-main)]
 > 
-> ###### 3)  *"Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 3)  *"Image-Text Knowledge Modeling for Unsupervised Multi-Scenario Person Re-Identification"*  
 > 
 > ###### 4)  *"Bipartite Mode Matching for Vision Training Set Search from a Hierarchical Data Server"* [[paper](https://github.com/yorkeyao/BMM)] [[github](https://github.com/yorkeyao/BMM)]
 > 
-> ###### 5)  *"CIA: Cluster-Instance Alignment for Unsupervised Day-Night Vehicle Re-Identification"* [[paper]()] [[github]()]
+> ###### 5)  *"CIA: Cluster-Instance Alignment for Unsupervised Day-Night Vehicle Re-Identification"*  
 > 
 > ###### 6)  *"CKDA: Cross-modality Knowledge Disentanglement and Alignment for Visible-Infrared Lifelong Person Re-identification"* [[paper](https://github.com/PKU-ICST-MIPL/CKDA-AAAI2026)] [[github](https://github.com/PKU-ICST-MIPL/CKDA-AAAI2026)]
 > 
 > ###### 7)  *"Debiased Dual-Invariant Defense for Adversarially Robust Person Re-Identification"* [[paper](https://github.com/zchuanqi/DDDefense-ReID)] [[github](https://github.com/zchuanqi/DDDefense-ReID)]
 > 
-> ###### 8)  *"Dual-stream Relation-modeling Disentanglement for Cloth-Changing Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 8)  *"Dual-stream Relation-modeling Disentanglement for Cloth-Changing Person Re-Identification"*  
 > 
-> ###### 9)  *"Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible & Infrared Person Retrieval"* [[paper]()] [[github]()]
+> ###### 9)  *"Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible & Infrared Person Retrieval"*  
 > 
-> ###### 10)  *"Dynamic-Static Collaboration for Unsupervised Domain Adaptive Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 10)  *"Dynamic-Static Collaboration for Unsupervised Domain Adaptive Video-Based Visible-Infrared Person Re-Identification"*  
 > 
-> ###### 11)  *"Federated Aggregation via Robust and Discriminative Knowledge Selection and Integration for Person Re-identification"* [[paper]()] [[github]()]
+> ###### 11)  *"Federated Aggregation via Robust and Discriminative Knowledge Selection and Integration for Person Re-identification"*  
 > 
-> ###### 12)  *"Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval"* [[paper]()] [[github]()]
+> ###### 12)  *"Geometry-Aware Noisy Correspondence Mitigation for Cross-Modal Text-Based Person Retrieval"*  
 > 
-> ###### 13)  *"Active Learning for Animal Re-Identification with Ambiguity-Aware Sampling"* [[paper]()] [[github]()]
+> ###### 13)  *"Active Learning for Animal Re-Identification with Ambiguity-Aware Sampling"*  
 > 
-> ###### 14)  *"A Motion-Aware Pretraining Paradigm for Video-Based Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 14)  *"A Motion-Aware Pretraining Paradigm for Video-Based Person Re-Identification"*  
 > 
-> ###### 15)  *"Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification"* [[paper]()] [[github]()]
+> ###### 15)  *"Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification"*  
 > 
-> ###### 16)  *"Localization-Anchored Instance Discrimination for Domain Adaptive Person Search"* [[paper]()] [[github]()]
+> ###### 16)  *"Localization-Anchored Instance Discrimination for Domain Adaptive Person Search"*  
 > 
-> ###### 17)  *"Modality-Aware Bias Mitigation and Invariance Learning for Unsupervised Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 17)  *"Modality-Aware Bias Mitigation and Invariance Learning for Unsupervised Visible-Infrared Person Re-Identification"*  
 > 
-> ###### 18)  *"Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 18)  *"Multi-granularity Information Interaction for Video-Based Visible-Infrared Person Re-Identification"*  
 > 
-> ###### 19)  *"Parameter-Efficient Fine-Tuning with Bag-of-Adapters for Multi-Modal Object Re-identification"* [[paper]()] [[github]()]
+> ###### 19)  *"Parameter-Efficient Fine-Tuning with Bag-of-Adapters for Multi-Modal Object Re-identification"*  
 > 
-> ###### 20)  *"Progressive Multi-modal Knowledge Distillation for Multi-spectral Object Re-identification"* [[paper]()] [[github]()]
+> ###### 20)  *"Progressive Multi-modal Knowledge Distillation for Multi-spectral Object Re-identification"*  
 > 
-> ###### 21)  *"Proxy-driven Test-Time Training for Multi-modal Re-identification"* [[paper]()] [[github]()]
+> ###### 21)  *"Proxy-driven Test-Time Training for Multi-modal Re-identification"*  
 > 
-> ###### 22)  *"Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval"* [[paper]()] [[github]()]
+> ###### 22)  *"Key Phrase Dynamic Masking for Robust Text-to-Image Person Retrieval"*  
 > 
-> ###### 23)  *"Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification"* [[paper]()] [[github]()]
+> ###### 23)  *"Selective Interaction and Global-local Alignment for Multi-Modal Object Re-Identification"*  
 > 
-> ###### 24)  *"Semantic-Driven Visual Progressive Refinement for Aerial-Ground Person ReID"* [[paper]()] [[github]()]
+> ###### 24)  *"Semantic-Driven Visual Progressive Refinement for Aerial-Ground Person ReID"*  
 > 
-> ###### 25)  *"Text-based Aerial-Ground Person Retrieval"* [[paper]()] [[github]()]
+> ###### 25)  *"Text-based Aerial-Ground Person Retrieval"*  
 > 
-> ###### 26)  *"Unified Representation Causal Prompt Distillation for Re-Inference-Free Lifelong Person Re-Identification"* [[paper]()] [[github]()]
+> ###### 26)  *"Unified Representation Causal Prompt Distillation for Re-Inference-Free Lifelong Person Re-Identification"*  
 
 ## ICCV2025
-> ###### 1)  *"VIPerson: Flexibly Generating Virtual Identity for Person Re-Identification"* [[paper]()] [github]()]
-> ###### 2)  *"Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning"* [[paper]()] [github]()]
-> ###### 3)  *"Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification"* [[paper]()] [github]()]
-> ###### 4)  *"Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID"* [[paper]()] [github]()]
-> ###### 5)  *"Multi-modal Multi-platform Person Re-Identification: Benchmark and Method"* [[paper]()] [github]()]
-> ###### 6)  *"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"* [[paper]()] [github]()]
-> ###### 7)  *"One-Shot Knowledge Transfer for Scalable Person Re-Identification"* [[paper]()] [github]()]
-> ###### 8)  *"OpenAnimals: Revisiting Person Re-Identification for Animals Towards Better Generalization"* [[paper]()] [github]()]
-> ###### 9)  *"Augmented and Softened Matching for Unsupervised Visible-Infrared Person Re-Identification"* [[paper]()] [github]()]
-> ###### 10)  *"Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion"* [[paper]()] [github]()]
-> ###### 11)  *"HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person ReID"* [[paper]()] [github]()]
-> ###### 12)  *"Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification"* [[paper]()] [github]()]
-> ###### 13)  *"ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models"* [[paper]()] [github]()]
-> ###### 14)  *"Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search"* [[paper]()] [github]()]
-> ###### 15)  *"Towards Robustness of Person Search against Corruptions"* [[paper]()] [github]()]
-> ###### 16)  *"Leveraging Prior Knowledge of Diffusion Model for Person Search"* [[paper]()] [github]()]
-> ###### 17)  *"VehicleMAE: View-asymmetry Mutual Learning for Vehicle Re-identification Pre-training via Masked AutoEncoders"* [[paper]()] [github]()]
-> ###### 18)  *"Generalizable Object Re-Identification via Visual In-Context Prompting"* [[paper]()] [github]()]
+> ###### 1)  *"VIPerson: Flexibly Generating Virtual Identity for Person Re-Identification"*  
+> ###### 2)  *"Weakly Supervised Visible-Infrared Person Re-Identification via Heterogeneous Expert Collaborative Consistency Learning"*  
+> ###### 3)  *"Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification"*  
+> ###### 4)  *"Cross-Category Subjectivity Generalization for Style-Adaptive Sketch Re-ID"*  
+> ###### 5)  *"Multi-modal Multi-platform Person Re-Identification: Benchmark and Method"*  
+> ###### 6)  *"Unsupervised Visible-Infrared Person Re-identification under Unpaired Settings"*  
+> ###### 7)  *"One-Shot Knowledge Transfer for Scalable Person Re-Identification"*  
+> ###### 8)  *"OpenAnimals: Revisiting Person Re-Identification for Animals Towards Better Generalization"*  
+> ###### 9)  *"Augmented and Softened Matching for Unsupervised Visible-Infrared Person Re-Identification"*  
+> ###### 10)  *"Prompt-driven Transferable Adversarial Attack on Person Re-Identification with Attribute-aware Textual Inversion"*  
+> ###### 11)  *"HAMoBE: Hierarchical and Adaptive Mixture of Biometric Experts for Video-based Person ReID"*  
+> ###### 12)  *"Bridging the Sky and Ground: Towards View-Invariant Feature Learning for Aerial-Ground Person Re-Identification"*  
+> ###### 13)  *"ChatReID: Open-ended Interactive Person Retrieval via Hierarchical Progressive Tuning for Vision Language Models"*  
+> ###### 14)  *"Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search"*  
+> ###### 15)  *"Towards Robustness of Person Search against Corruptions"*  
+> ###### 16)  *"Leveraging Prior Knowledge of Diffusion Model for Person Search"*  
+> ###### 17)  *"VehicleMAE: View-asymmetry Mutual Learning for Vehicle Re-identification Pre-training via Masked AutoEncoders"*  
+> ###### 18)  *"Generalizable Object Re-Identification via Visual In-Context Prompting"*  
 
 ## AAAI2025
 - <ins>***Person re-identification***</ins>
@@ -178,17 +178,17 @@ This is a repository for organizing articles related to person re-identification
 > ###### 2)  *"Cheb-GR: Rethinking k-nearest neighbor search in Re-ranking for Person Re-identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Cheb-GR_Rethinking_K-nearest_Neighbor_Search_in_Re-ranking_for_Person_Re-identification_CVPR_2025_paper.pdf)] [[github](https://github.com/Jinxi-Yang-WHU/Fast-GCR)]
 
 - <ins>***Lifelong Person Re-identification***</ins>
-> ###### 1)  *"DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification"* [[paper]()] [[github]()]
+> ###### 1)  *"DKC: Differentiated Knowledge Consolidation for Cloth-Hybrid Lifelong Person Re-identification"*  
 
 - <ins>***Clothing Change Person Re-Identification***</ins>
 > ###### 1)  *"Identity-Clothing Similarity Modeling for Unsupervised Clothing Change Person Re-Identification"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Pang_Identity-Clothing_Similarity_Modeling_for_Unsupervised_Clothing_Change_Person_Re-Identification_CVPR_2025_paper.pdf)] [[github]()]
 > ###### 2)  *"DIFFER: Disentangling Identity Features via Semantic Cues for Clothes-Changing Person Re-ID"* [[paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liang_DIFFER_Disentangling_Identity_Features_via_Semantic_Cues_for_Clothes-Changing_Person_CVPR_2025_paper.pdf)] [[github](https://github.com/xliangp/DIFFER)]
 
 - <ins>***Text-to-Image Person Re-identification***</ins>
-> ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"* [[paper]()] [[github]()]
+> ###### 1)  *"Chat-based Person Retrieval via Dialogue-Refined Cross-Modal Alignment"*  
 > ###### 2)  *"Modeling Thousands of Human Annotators for Generalizable Text-to-Image Person Re-identification"* [[paper](https://arxiv.org/abs/2503.09962)] [[github](https://github.com/sssaury/ham)]
 
-> ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"* [[paper]()] [[github]()]
+> ###### 3)  *"Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification"*  
 
 - <ins>***Multi-modal Object Re-Identification***</ins>
 > ###### 1) *"IDEA: Inverted Text with Cooperative Deformable Aggregation for Multi-modal Object Re-Identification"* [[paper](https://arxiv.org/abs/2503.10324)] [[github](https://github.com/924973292/IDEA)]
@@ -200,7 +200,7 @@ This is a repository for organizing articles related to person re-identification
 
 > ###### 3)  *"From Laboratory to Real World: A New Benchmark Towards Privacy-Preserved Visible-Infrared Person Re-Identification"* [[paper](https://arxiv.org/abs/2503.12232)] [[github](https://github.com/Joey623/L2RW)]
 
-> ###### 4)  *"Person De-reidentification: A Variation-guided Identity Shift Modeling"* [[paper]()] [[github]()]
+> ###### 4)  *"Person De-reidentification: A Variation-guided Identity Shift Modeling"*  
 
 
 ## NeurIPS2024
