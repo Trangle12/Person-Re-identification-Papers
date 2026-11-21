@@ -6,36 +6,20 @@ This is a repository for organizing articles related to person re-identification
 </p>
 
 ## NeurIPS 2026 
-### 1. Aerial-Ground Cross-View Person Re-Identification
+
 > ###### 1)  *"ProAlign: Progressive Positional and Prototype-Guided Alignment for Aerial-Ground Person Re-Identification"*
 > ###### 2)  *"View-Spectral Reconciliation Learning for Text-based Multispectral Aerial–Ground Person Re-Identification"*
-
-### 2. Visible-Infrared & General Cross-Modal Person Re-Identification
-> ###### 1)  *"Prototype Topology Consistency for Visible-Infrared Lifelong Person Re-Identification"*
-> ###### 2)  *"Multiform Attack for Transferable Cross-Modal Person Re-Identification"*
-
-### 3. Text-Image Cross-Modal Person Retrieval
-> ###### 1)  *"Reranking with Intra-modal Visual Association for Text-to-Image Person Re-Identification"*
-> ###### 2)  *"LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification"*
-
-### 4. Cloth-Changing Person Re-Identification
-> ###### 1)  *"Graph-Enhanced Attribute-Aware Modeling for Cloth-Changing Person Re-Identification"*
-
-### 5. Lifelong Learning Person Re-Identification
-> ###### 1)  *"Towards Better Generalization in Lifelong Person Re-Identification with Flatness-Aware Learning"*
-
-### 6. Modality-Heterogeneous Federated Person Re-Identification
-> ###### 1)  *"Complexity-Aware LoRA Aggregation for Modality-Heterogeneous Federated Person Re-identification"*
-
-### 7. Large-Scale & Foundation Model-Based Person Recognition
-> ###### 1)  *"HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large Scale Person Re-Identification"*
-> ###### 2)  *"SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception"*
-
-### 8. 3D-Enhanced Cross-View Object Re-Identification
-> ###### 1)  *"3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification"*
-
-### 9. Wildlife Individual Generation & Recognition
-> ###### 1)  *"Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife"*
+> ###### 3)  *"Prototype Topology Consistency for Visible-Infrared Lifelong Person Re-Identification"*
+> ###### 4)  *"Multiform Attack for Transferable Cross-Modal Person Re-Identification"*
+> ###### 5)  *"Reranking with Intra-modal Visual Association for Text-to-Image Person Re-Identification"*
+> ###### 6)  *"LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification"*
+> ###### 7)  *"Graph-Enhanced Attribute-Aware Modeling for Cloth-Changing Person Re-Identification"*
+> ###### 8)  *"Towards Better Generalization in Lifelong Person Re-Identification with Flatness-Aware Learning"*
+> ###### 9)  *"Complexity-Aware LoRA Aggregation for Modality-Heterogeneous Federated Person Re-identification"*
+> ###### 10)  *"HypMoE-ReID: Hyperspherical Mixture-of-Experts for Large Scale Person Re-Identification"*
+> ###### 11)  *"SapiensID 2.0: Aligning Human Recognition Foundation Models with Human Perception"*
+> ###### 12)  *"3D-VITAL: Visibility-aware Identity Training from Artificial Liftings of 3D Reconstruction model for Cross-View Object Re-Identification"*
+> ###### 13)  *"Generating the Wild: Individual-Consistent Image-to-Video Generation for Wildlife"*
 
 
 ## ECCV 2026
